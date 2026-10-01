@@ -338,7 +338,7 @@ Retail-Sales-Profitability-Inventory-Analytics/
 
 **Aftab Alam**
 
-Senior Data Analyst | Power BI | SQL | Python | Power Platform
+Senior Data Analyst | Power BI | SQL | Python
 
 ---
 
