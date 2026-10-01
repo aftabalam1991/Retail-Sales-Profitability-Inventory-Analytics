@@ -330,6 +330,7 @@ Retail-Sales-Profitability-Inventory-Analytics/
     ├── stores.csv
     ├── returns.csv
     └── inventory_monthly.csv
+```
 
 ---
 
@@ -337,7 +338,7 @@ Retail-Sales-Profitability-Inventory-Analytics/
 
 **Aftab Alam**
 
-Senior Data Analyst | Power BI | SQL | Python
+Senior Data Analyst | Power BI | SQL | Python | Power Platform
 
 ---
 
