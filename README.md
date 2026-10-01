@@ -330,3 +330,21 @@ Retail-Sales-Profitability-Inventory-Analytics/
     ├── stores.csv
     ├── returns.csv
     └── inventory_monthly.csv
+
+---
+
+
+## Author
+
+**Aftab Alam**
+
+Senior Data Analyst | Power BI | SQL | Python
+
+---
+
+
+## Disclaimer
+
+This project is created for portfolio and learning purposes.
+
+The dataset used in this project is intended for analytical demonstration and does not represent confidential company information.
