@@ -333,7 +333,6 @@ Retail-Sales-Profitability-Inventory-Analytics/
 
 ---
 
-
 ## Author
 
 **Aftab Alam**
@@ -341,7 +340,6 @@ Retail-Sales-Profitability-Inventory-Analytics/
 Senior Data Analyst | Power BI | SQL | Python
 
 ---
-
 
 ## Disclaimer
 
